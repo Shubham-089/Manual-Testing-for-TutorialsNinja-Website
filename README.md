@@ -2,7 +2,7 @@
 
 ## Feature Tested: Forgot Password Functionality
 
-### AUT: TutorialsNinja Demo
+### AUT: https://tutorialsninja.com/demo/
 
 ---
 
