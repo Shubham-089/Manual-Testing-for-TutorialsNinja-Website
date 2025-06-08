@@ -6,9 +6,8 @@
 ---
 
 ## 📸 Project Image  
-![Project Screenshot](https://user-images.githubusercontent.![Screenshot 2025-06-08 175506](https://github.com/user-attachments/assets/94f42159-2cf4-48ba-b67e-018a1c064f2e)
-com/your-image-link.png)  
-*_(Replace with your actual image URL once uploaded)_*
+https://github.com/user-attachments/assets/94f42159-2cf4-48ba-b67e-018a1c064f2e)
+com/your-image-link.png 
 
 ---
 
